@@ -1,6 +1,5 @@
 .idea/
 lib/
 out/
-FinalProj.iml
-Main.java
-SqlDao.java
+/src/by/epam/kimbar/Main.java
+/src/by/epam/kimbar/dao/impl/SqlDao.java
