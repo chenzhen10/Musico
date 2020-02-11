@@ -1,3 +1,3 @@
 # Musico
-<strong>My First WEB-APP</strong>
+<strong>WEB-APP</strong>
 
